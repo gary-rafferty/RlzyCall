@@ -1,0 +1,9 @@
+RlzyCall
+
+A really simple utility for android.
+
+Displays a list of contacts, sends a Meteor "call-me" message to whomever you select.
+This just makes things a little bit easier than the usual way of texting the recepients number to 50001
+
+Based on droid 1.5 as that's what my HTC hero is running.
+
