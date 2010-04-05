@@ -7,3 +7,8 @@ This just makes things a little bit easier than the usual way of texting the rec
 
 Based on droid 1.5 as that's what my HTC hero is running.
 
+TODO:
+Add support for selecting multiple contacts
+Add support for removing selected contacts
+Have the confirmation dialog confirm selected contacts
+
